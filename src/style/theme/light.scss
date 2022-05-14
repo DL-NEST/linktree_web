@@ -1,0 +1,17 @@
+// 常规主题配色
+:root{
+  // admin
+  --app-main-background:rgba(21, 24, 36,1);
+  --app-main-main-color:rgba(34, 39, 56,1);
+  // menu
+  --menu-group-font-color:rgba(173, 181, 189,1);
+  --menu-group-foot-color:rgb(52, 57, 72);
+  // node
+  --menu-node-off-color:rgb(138, 146, 166);
+  --menu-node-on-color:rgb(255,255,255);
+  --menu-node-btn-color:rgb(58, 87, 232);
+  --menu-on-wide:25rem;
+  --menu-off-wide:12rem;
+  // content
+  --top-high:7.7rem;
+}
